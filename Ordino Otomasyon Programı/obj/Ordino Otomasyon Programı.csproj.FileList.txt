@@ -1,0 +1,8 @@
+bin\Debug\Ordino Otomasyon Programı.exe
+bin\Debug\Ordino Otomasyon Programı.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ordino_Otomasyon_Programı.Form1.resources
+obj\Debug\Ordino_Otomasyon_Programı.Properties.Resources.resources
+obj\Debug\Ordino Otomasyon Programı.csproj.GenerateResource.Cache
+obj\Debug\Ordino Otomasyon Programı.exe
+obj\Debug\Ordino Otomasyon Programı.pdb
